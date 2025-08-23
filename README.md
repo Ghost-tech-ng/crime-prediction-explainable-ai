@@ -1,4 +1,4 @@
-![Crime Prediction Dashboard](Screenshot.png)
+![Crime Prediction Dashboard](blob/main/Screenshot.png)
 
 > **Final Year Project** - A comprehensive machine learning system implementing state-of-the-art algorithms with explainable AI techniques for crime prediction and analysis.
 
