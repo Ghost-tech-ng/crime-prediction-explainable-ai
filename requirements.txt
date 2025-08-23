@@ -1,0 +1,36 @@
+# Updated Requirements for Python 3.13 Compatibility
+# Using flexible version ranges instead of exact pins
+
+# Core ML and Data Science Libraries
+pandas>=2.1.0
+numpy>=1.26.0
+scikit-learn>=1.3.0
+matplotlib>=3.8.0
+seaborn>=0.12.2
+
+# Advanced ML Libraries
+tensorflow>=2.15.0
+xgboost>=2.0.0
+
+# Explainable AI
+shap>=0.43.0
+lime>=0.2.0
+
+# Visualization
+plotly>=5.17.0
+folium>=0.15.0
+
+# Web Interface
+streamlit>=1.28.0
+
+# Geospatial Analysis (may have Python 3.13 issues)
+# geopandas>=0.14.0  # Uncomment when compatible
+
+# Utilities
+joblib>=1.3.2
+scipy>=1.11.4
+networkx>=3.2.1
+
+# Development
+jupyter>=1.0.0
+ipython>=8.18.0
